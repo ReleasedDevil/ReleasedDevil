@@ -1,5 +1,5 @@
-## Hi there 👋
-<p>NAGKAON KANA LAB HEHE</p>
+## Hi LAB 👋
+<p>NAGKAON KANA LAB? HEHE</p>
 
 <!--
 **ReleasedDevil/ReleasedDevil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
