@@ -1,5 +1,13 @@
-## Hi LAB 👋
-<p>NAGKAON KANA LAB? HEHE</p>
+## Hi MISS NA KITA 👋
+<p>NAGKAON KANA?</p>
+<p>BTW ANLAMIG ANO, DI SAPAT ANG UNAN KO NGAYON :(( </p>
+<p>PATI AMOY NG 'YONG BUHOK AY NARITO PA RIN</p>
+<p>MAPALAD S'YA NA HAHALIK SA 'YONG ULO</p>
+
+<p>SANA 'DI KO NA MAALALA</p
+<p>LAHAT NG TAWA MO'T HALIK</p>
+<p>SANA DUMATING ANG ARAW</p>
+<p>NA 'DI NA IKAW PERO IKAW PA RIN</p>
 
 <!--
 **ReleasedDevil/ReleasedDevil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
